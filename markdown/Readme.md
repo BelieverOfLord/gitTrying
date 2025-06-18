@@ -1,12 +1,12 @@
 ## Markdown Example
 
--Headings
--unordered lists
--ordered list
--text formatting
--code
--tables
--links
--images
--autolists
--lists
+- Headings
+- unordered lists
+- ordered list
+- text formatting
+- code
+- tables
+- links
+- images
+- autolists
+- lists
