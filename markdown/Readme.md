@@ -63,5 +63,5 @@ def hello_world
 
 ### TaskList
 
-- [] Item 1
+- [ ] Item 1
 - [x] Item 2
